@@ -2,11 +2,11 @@
 
 ##lab 1 for web programming
 
--[x] github pages
+- [x] github pages
 
--[x] jekyll
+- [x] jekyll
 
--[x] blog
+- [x] blog
 
    part 1: github pages, i created a repositories and created multiple files in it which were html file, css and folders.
    
